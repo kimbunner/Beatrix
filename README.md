@@ -2,7 +2,7 @@
 u n k n o w n
 
 Download Here:
-Windows: https://firebasestorage.googleapis.com/v0/b/beatrix-storage-core.appspot.com/o/Beatrix%20Server.rar?alt=media&token=ca1ae7ef-0177-4d0c-9650-52810ec98a00
+Windows: https://firebasestorage.googleapis.com/v0/b/beatrix-storage-core.appspot.com/o/Beatrix%20Server.rar?alt=media&token=dc1efbea-e3e2-43a2-a365-677f10617e7a
 
 Patch 3
 Ver 0.0.0 Step 2
