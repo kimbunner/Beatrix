@@ -2,13 +2,13 @@
 u n k n o w n
 
 Download Here:
-Windows: https://firebasestorage.googleapis.com/v0/b/beatrix-storage-core.appspot.com/o/Beatrix%20Server.rar?alt=media&token=b1c04b10-eb03-4c49-9091-90c01b4d1894
+Windows: https://firebasestorage.googleapis.com/v0/b/beatrix-storage-core.appspot.com/o/Beatrix%20Server.rar?alt=media&token=ca1ae7ef-0177-4d0c-9650-52810ec98a00
 
-Patch 2
+Patch 3
 Ver 0.0.0 Step 2
 
-New Server (Beatrix Server Core)
-Auth Manager Firebase
+Added JoinGroup
+Added Random LDS
 
 
 @Beatrix
