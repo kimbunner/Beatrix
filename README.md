@@ -2,9 +2,9 @@
 u n k n o w n
 
 Download Here:
-Windows: https://firebasestorage.googleapis.com/v0/b/beatrix-storage-core.appspot.com/o/Beatrix%20Server.rar?alt=media&token=dc1efbea-e3e2-43a2-a365-677f10617e7a
+Windows: https://firebasestorage.googleapis.com/v0/b/beatrix-server-realease.appspot.com/o/release%20beta%20phase%202%2FBeatrix%20Server.rar?alt=media&token=9b3cbd26-c2ca-42e2-bcf6-3a9235df5b77
 
-Patch 3
+Patch 4
 Ver 0.0.0 Step 2
 
 Added JoinGroup
@@ -15,6 +15,3 @@ Added Random LDS
 @Shanghai Moonton
 
 Please Dont Copyright Me :(
-
-
-Yey Its My Birthday
